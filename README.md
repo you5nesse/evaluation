@@ -1,4 +1,4 @@
-
+on a une classe abstrait Vehicule qui definit la methode abstrait calculerCout().Cette classe est héritee par Voiture et Moto .la classe Location representee l'association entre client et Vehicule via une relation utilise et concerne 
 
 
 
